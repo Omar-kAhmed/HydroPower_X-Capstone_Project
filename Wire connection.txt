@@ -1,0 +1,29 @@
+LCD:
+GND --> GND
+VCC --> 5V
+SDA --> A4
+SCL --> A5
+
+Flowrate:
+GND --> GND
+VCC --> 5V
+OUT --> 3
+
+HC-05:
+GND --> GND
+VCC --> 5V
+RX --> 11
+TX --> 10
+
+IR:
+GND --> GND
+VCC --> 5V
+OUT --> 2
+
+LEDs:
+Green --> 13
+Red --> 12
+
+Buzzer:
+Negative side --> GND
+Positive --> 8
